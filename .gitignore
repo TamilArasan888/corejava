@@ -1,11 +1,5 @@
+.metadata/
 /.metadata/
-.metadata
-bin/
-tmp/
-temp/
-*.tmp
-*.bak
-*.swp
 # Compiled class file
 *.class
 
